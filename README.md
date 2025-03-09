@@ -2,9 +2,13 @@
 
 A Flutter animation with rotating Japanese characters and synchronization effects.
 
-[Watch Demo](https://gitlab.com/-/project/61957092/uploads/8c6b43aa75ef6d160f61927097582197/Screen_Recording_2025-03-09_at_5.19.13_PM.mov)
-
-<img src="https://github.com/user-attachments/assets/fd65a3b2-c011-48c9-9690-d23feaf05dda" width="500" height="650" alt="Preview">
+<p align="center">
+  <a href="https://gitlab.com/-/project/61957092/uploads/8c6b43aa75ef6d160f61927097582197/Screen_Recording_2025-03-09_at_5.19.13_PM.mov">
+    <img src="https://github.com/user-attachments/assets/fd65a3b2-c011-48c9-9690-d23feaf05dda" width="500" alt="Preview (Click to watch video)">
+  </a>
+  <br>
+  <i>Click the image to watch the demo video</i>
+</p>
 
 ## About
 
